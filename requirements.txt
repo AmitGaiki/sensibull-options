@@ -1,0 +1,6 @@
+pymongo
+python-dateutil
+numpy
+stockstats
+quandl
+requests
